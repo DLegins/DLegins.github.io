@@ -1,0 +1,73 @@
+<html>
+  <head>
+    <title>Basic HTML Elements</title>
+    <link rel="stylesheet" href="./styles.css" type="text/css">
+  </head>
+  <body>
+    <h1>Basic HTML Tags</h1>
+    <h2>Common Tags</h2>
+    <table>
+      <thead>
+        <tr class="head">
+          <th>Tag</th>
+          <th>Name</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tag">&lt;body&gt;</td>
+          <td>Body</td>
+          <td>The &lt;body&gt; element represents the content of an HTML document.</td>
+        </tr>
+        <tr>
+          <td class="tag">&lt;p&gt;</td>
+          <td>Paragraph</td>
+          <td>The &lt;p&gt; paragraph element contains and displays a block of text.</td>
+        </tr>
+         <tr>
+          <td class="tag">&lt;h1&gt;-&lt;h6&gt;</td>
+          <td>Heading</td>
+          <td>HTML can use six different levels of heading elements. The heading elements are ordered from the highest level &lt;h1&gt; to the lowest level &lt;h6&gt;.</td>
+        </tr>
+        <tr>
+          <td class="tag">&lt;div&gt;</td>
+          <td>Div(Division)</td>
+          <td>The &lt;div&gt; element is used as a container that divides an HTML document into sections and is short for “division”. &lt;div&gt; elements can contain flow content such as headings, paragraphs, links, images, etc.</td>
+        </tr>
+        <tr>
+          <td class="tag">&lt;li&gt;</td>
+          <td>List Item</td>
+          <td>The &lt;li&gt; list item element create list items using ordered or unordered lists.</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Other Elements</h2>
+    <table>
+      <thead>
+        <tr class="head">
+          <th>Tag</th>
+          <th>Name</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tag">&lt;img&gt;</td>
+          <td>Image</td>
+          <td>HTML image &lt;img&gt; elements embed images in documents.</td>
+        </tr>
+        <tr>
+          <td class="tag">&lt;video&gt;</td>
+          <td>Video</td>
+          <td>The &lt;video&gt; element embeds a media player for video playback.</td>
+        </tr>
+         <tr>
+          <td class="tag">&lt;span&gt;</td>
+          <td>Span</td>
+          <td>The &lt;span&gt; element is an inline container for text and can be used to group text for styling purposes.</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
